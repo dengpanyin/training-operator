@@ -1,4 +1,4 @@
-module github.com/dengpanyin/training-operator
+module github.com/kubeflow/training-operator
 
 go 1.17
 
